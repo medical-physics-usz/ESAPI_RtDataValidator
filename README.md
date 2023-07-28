@@ -1,6 +1,6 @@
 # ESAPI Script to evaluate plan parameters
 
-This script was developed over several years at the Radiation Oncology Department of the University Hospital Zurich to verify plan parameters of RT plans. Historically we developed the code based on sql database query. Nowadays we would reccomend a development fully based on ESAPI, please refer to the Varian website for this.
+This script was developed over several years at the Radiation Oncology Department of the University Hospital Zurich to verify plan parameters of RT plans. Historically we developed the code based on sql database query. Nowadays we would reccomend a development fully based on ESAPI, please refer to the Varian website for this. Examples of this by other developers: https://github.com/LDClark/PlanCheck
 
 In the anonymized example below, you can see the script in action with several entries:
 1) Green entries: values within parameters
