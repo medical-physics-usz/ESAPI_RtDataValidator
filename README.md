@@ -1,6 +1,6 @@
 # ESAPI Script to evaluate plan parameters
 
-This script was developed over several years at the Radiation Oncology Department of the University Hospital Zurich to verify plan parameters of VMAT plans. 
+This script was developed over several years at the Radiation Oncology Department of the University Hospital Zurich to verify plan parameters of RT plans. 
 
 In the anonymized example below you can see the script in action with several entries:
 1) Green entries: values within parameters
