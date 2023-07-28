@@ -1,6 +1,6 @@
 # ESAPI Script to evaluate plan parameters
 
-This script was developed over several years at the Radiation Oncology Department of the University Hospital Zurich to verify plan parameters of RT plans. 
+This script was developed over several years at the Radiation Oncology Department of the University Hospital Zurich to verify plan parameters of RT plans. Historically we developed the code based on sql database query. Nowadays we would reccomend a development fully based on ESAPI, please refer to the Varian website for this.
 
 In the anonymized example below, you can see the script in action with several entries:
 1) Green entries: values within parameters
@@ -37,6 +37,7 @@ License:
 
 The code is distributed under the Creative Common Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) 
 https://creativecommons.org/licenses/by-nc/4.0/ 
+
 You are free to:
 
 Share: copy and redistribute the material in any medium or format
